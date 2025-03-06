@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction :: Hugo Book</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>The theme is using hugo-relearn-theme.&#xA;There 3 type of pages:&#xA;Create a Home Page Create a Chapter Page Create a Content Pages Create a Home Page hugo new --kind home _index.md Create a Chapter Page hugo new --kind chapter log/_index.md Create a Content Pages hugo new log/first-day/_index.md hugo new log/second-day/index.md hugo new log/third-day.md</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Car</title>
+      <link>http://localhost:1313/car/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/car/index.html</guid>
+      <description>2022 Toyota Camry 2014 Nissan Maxima 2014 Nissan Sentra</description>
+    </item>
+    <item>
+      <title>Log</title>
+      <link>http://localhost:1313/log/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/log/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/markdown/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/markdown/index.html</guid>
+      <description>What is Markdown? Markdown is a lightweight markup language that you can use to format plain text documents.&#xA;Write docs for your GitHub projects, edit your GitHub profile README etc. You fill find it all here.&#xA;Let’s dive into it. ⤵️&#xA;Table of Contents ⬇️ The Only Markdown Cheatsheet You Need - ⚠️ Note What is Markdown? Table of Contents Paragraph Headings Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Blockquote Images Links Code Lists Ordered List Unordered List Mixed List Table Task List Footnote I am working on a new project. [^1] Hope you will like it. [^see] Jump to section Horizontal Line HTML - Section with some ID Paragraph By writing regular text you are basically writing a paragraph.</description>
+    </item>
+  </channel>
+</rss>
