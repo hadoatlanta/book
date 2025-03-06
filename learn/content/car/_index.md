@@ -1,6 +1,5 @@
 +++
 title = "Car"
-type = "chapter"
 weight = 1
 +++
 

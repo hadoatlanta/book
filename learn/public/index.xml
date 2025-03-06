@@ -22,11 +22,11 @@
       <description>This is a new chapter.</description>
     </item>
     <item>
-      <title>Markdown</title>
+      <title>What is Markdown</title>
       <link>http://localhost:1313/markdown/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/markdown/index.html</guid>
-      <description>What is Markdown? Markdown is a lightweight markup language that you can use to format plain text documents.&#xA;Write docs for your GitHub projects, edit your GitHub profile README etc. You fill find it all here.&#xA;Let’s dive into it. ⤵️&#xA;Table of Contents ⬇️ The Only Markdown Cheatsheet You Need - ⚠️ Note What is Markdown? Table of Contents Paragraph Headings Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Blockquote Images Links Code Lists Ordered List Unordered List Mixed List Table Task List Footnote I am working on a new project. [^1] Hope you will like it. [^see] Jump to section Horizontal Line HTML - Section with some ID Paragraph By writing regular text you are basically writing a paragraph.</description>
+      <description>Markdown is a lightweight markup language that you can use to format plain text documents.&#xA;Write docs for your GitHub projects, edit your GitHub profile README etc. You fill find it all here.&#xA;Let’s dive into it. ⤵️&#xA;Table of Contents ⬇️ The Only Markdown Cheatsheet You Need - ⚠️ Note What is Markdown? Table of Contents Paragraph Headings Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Blockquote Images Links Code Lists Ordered List Unordered List Mixed List Table Task List Footnote I am working on a new project. [^1] Hope you will like it. [^see] Jump to section Horizontal Line HTML - Section with some ID Paragraph By writing regular text you are basically writing a paragraph.</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,5 @@
 +++
 title = "2014 Nissan Camry"
-type = "chapter"
 weight = 1
 +++
 

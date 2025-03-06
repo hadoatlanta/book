@@ -1,6 +1,5 @@
 +++
 title = "2014 Nissan Sentra"
-type = "chapter"
 weight = 1
 +++
 

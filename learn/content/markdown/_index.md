@@ -1,10 +1,7 @@
 +++
-title = "Markdown"
-type = "chapter"
-weight = 10
+title = "What is Markdown"
 +++
 
-# What is Markdown?
 Markdown is a lightweight markup language that you can use to format plain text documents.  
 Write docs for your GitHub projects, edit your GitHub profile _README_ etc. You fill find it all here.  
 
